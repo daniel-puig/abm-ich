@@ -1,3 +1,7 @@
+"""
+Extension of the basic model, in which kinship networks influence the interactions between agents.
+"""
+
 import random
 import statistics
 import matplotlib.pyplot as plt
