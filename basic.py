@@ -1,3 +1,7 @@
+"""
+Basic model, in which agents interact with one another randomly.
+"""
+
 import random
 import statistics
 import matplotlib.pyplot as plt
