@@ -1,3 +1,7 @@
+"""
+Extension of the basic model, in which homophily influences the interactions between agents.
+"""
+
 import random
 import statistics
 import matplotlib.pyplot as plt
